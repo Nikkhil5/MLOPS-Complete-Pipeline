@@ -1,0 +1,10 @@
+2025-11-17 13:51:36,175 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 13:51:36,324 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-17 13:51:36,356 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-11-17 13:51:36,383 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-11-17 13:51:37,574 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2025-11-17 13:53:21,445 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 13:53:21,617 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-17 13:53:21,624 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-11-17 13:53:21,643 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-11-17 13:53:22,092 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo

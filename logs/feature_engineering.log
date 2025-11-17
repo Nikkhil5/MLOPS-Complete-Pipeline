@@ -1,0 +1,6 @@
+2025-11-17 13:50:20,411 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-11-17 13:50:20,449 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-11-17 13:50:20,477 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-11-17 13:50:20,568 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-11-17 13:50:20,640 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-11-17 13:50:20,662 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv

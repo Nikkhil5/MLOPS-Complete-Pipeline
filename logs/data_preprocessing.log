@@ -1,0 +1,110 @@
+2025-11-17 13:45:24,594 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-17 13:45:24,595 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-17 13:45:24,597 - data_preprocessing - DEBUG - Target column encoded
+2025-11-17 13:45:24,606 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-17 13:45:24,609 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\nikhi/nltk_data'
+    - 'C:\\Python314\\nltk_data'
+    - 'C:\\Python314\\share\\nltk_data'
+    - 'C:\\Python314\\lib\\nltk_data'
+    - 'C:\\Users\\nikhi\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-17 13:45:24,611 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\nikhi/nltk_data'
+    - 'C:\\Python314\\nltk_data'
+    - 'C:\\Python314\\share\\nltk_data'
+    - 'C:\\Python314\\lib\\nltk_data'
+    - 'C:\\Users\\nikhi\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-17 13:47:04,240 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-17 13:47:04,240 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-17 13:47:04,242 - data_preprocessing - DEBUG - Target column encoded
+2025-11-17 13:47:04,246 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-17 13:47:04,248 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\nikhi/nltk_data'
+    - 'C:\\Python314\\nltk_data'
+    - 'C:\\Python314\\share\\nltk_data'
+    - 'C:\\Python314\\lib\\nltk_data'
+    - 'C:\\Users\\nikhi\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-17 13:47:04,249 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\nikhi/nltk_data'
+    - 'C:\\Python314\\nltk_data'
+    - 'C:\\Python314\\share\\nltk_data'
+    - 'C:\\Python314\\lib\\nltk_data'
+    - 'C:\\Users\\nikhi\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-17 13:49:25,268 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-17 13:49:25,269 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-17 13:49:25,271 - data_preprocessing - DEBUG - Target column encoded
+2025-11-17 13:49:25,276 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-17 13:49:33,896 - data_preprocessing - DEBUG - Text column transformed
+2025-11-17 13:49:33,896 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-17 13:49:33,897 - data_preprocessing - DEBUG - Target column encoded
+2025-11-17 13:49:33,898 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-17 13:49:36,149 - data_preprocessing - DEBUG - Text column transformed
+2025-11-17 13:49:36,161 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
