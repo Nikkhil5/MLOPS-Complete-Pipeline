@@ -131,7 +131,7 @@ def main():
         
         save_metrics(metrics, 'reports/metrics.json')
     except Exception as e:
-        logger.error('Failed to complete the model evaluation process: %s', e)
+        logger.error('Failed to ......complete the model evaluation process: %s', e)
         print(f"Error: {e}")
 
 if __name__ == '__main__':
